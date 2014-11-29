@@ -7,6 +7,7 @@ image:
   feature: ergodox.jpg
 ---
 The act of 'getting things done' surly isn't trivial. There's countless examples of organization tools which are supposed to help you 'getting things done', or in other words, increase your productivity.
+
 The word productivity is a quality measure of being productive, which by Merriam-Webster is defined as:
 
 > doing or achieving a lot : working hard and getting good results
