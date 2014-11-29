@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Back from the dead'
+title: 'Back from the Dead'
 date: '2014-10-14 17:57:42 +0200'
 tags: [coding, emacs, workflow]
 image:
