@@ -2,6 +2,9 @@
 layout: post
 title: 'The Act of Acting'
 date: '2014-11-29 00:38:58 +0100'
+tags: [coding, emacs, workflow]
+image:
+  feature: ergodox.jpg
 ---
 The act of 'getting things done' surly isn't trivial. There's countless examples of organization tools which are supposed to help you 'getting things done', or in other words, increase your productivity.
 The word productivity is a quality measure of being productive, which by Merriam-Webster is defined as:
